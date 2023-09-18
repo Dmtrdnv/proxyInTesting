@@ -1,5 +1,5 @@
 # 🌏↔️🌏 Proxy testing:
-Sometimes we need test connection ans see what happen. A proxy server usually helps for this task:
-- <a href="https://drive.google.com/file/d/1Wix1MF2mhYDEnDLHCBvuAmYMUKJ7ETPk/view?usp=drive_link" title="datachange" alt="datachange"> Changing data </a> on the web-page
-- <a href="https://drive.google.com/file/d/1XRRcqmibOT_AJk54u4M8VD_3T7R5R1Rk/view?usp=drive_link" title="codechange" alt="codechange"> Changing response code </a> 200 to 403
-- <a href="https://drive.google.com/file/d/162zQTaP6tmoW-9I8yOJuwVVAYROb1ezs/view?usp=drive_link" title="redirection" alt="redirection"> Redirection </a> of the destination
+Sometimes we need to test a connection and see what happens. A proxy server usually helps for this task:
+- <a href="https://drive.google.com/file/d/1Wix1MF2mhYDEnDLHCBvuAmYMUKJ7ETPk/view?usp=drive_link" title="datachange" alt="datachange"> Changing data: </a> quantity of goods in the cart in the <a href="http://demowebshop.tricentis.com/cart" title="webshop" alt="webshop"> web-shop </a>
+- <a href="https://drive.google.com/file/d/1XRRcqmibOT_AJk54u4M8VD_3T7R5R1Rk/view?usp=drive_link" title="codechange" alt="codechange"> Changing response code: </a> from 200 to 403 on <a href="http://demowebshop.tricentis.com/" title="webpage" alt="webpage"> web-page </a>
+- <a href="https://drive.google.com/file/d/162zQTaP6tmoW-9I8yOJuwVVAYROb1ezs/view?usp=drive_link" title="redirection" alt="redirection"> Redirection </a> of the request from <a href="http://demowebshop.tricentis.com/" title="prodEnvironment" alt="prodEnvironment"> Prod </a> to <a href="http://demowebshop.tricentis.com/qa" title="qaEnvironment" alt="qaEnvironment"> QA </a> environment
